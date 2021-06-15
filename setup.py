@@ -3,18 +3,17 @@ import codecs
 import os
 
 VERSION = '0.0.1'
-DESCRIPTION = "'sliding' number puzzle"
-
+DESCRIPTION = "'sliding' number puzzle game"
+LONG_DESCRIPTION = 'A package that allows to build simple streams of video, audio and camera data.'
 
 # Setting up
 setup(
-    name="numpuzzle",
-    version=VERSION,
+    name="numberpuzzle",
     author="Akhil Avvari",
     author_email="<yellowloafofbread@gmail.com>",
     description=DESCRIPTION,
     packages=find_packages(),
-    install_requires=['pygame','random'],
+    install_requires=['pygame'],
     keywords=['python'],
     classifiers=[
         "Development Status :: 1 - Planning",
