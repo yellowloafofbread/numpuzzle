@@ -1,0 +1,8 @@
+setup.py
+numpuzzle.egg-info/PKG-INFO
+numpuzzle.egg-info/SOURCES.txt
+numpuzzle.egg-info/dependency_links.txt
+numpuzzle.egg-info/requires.txt
+numpuzzle.egg-info/top_level.txt
+numpuzzpack/__init__.py
+numpuzzpack/number_puzzle_game.py
