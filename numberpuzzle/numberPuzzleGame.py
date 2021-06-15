@@ -1,7 +1,7 @@
 import pygame
-import random
+import randoms
 
-grid_size = int(input('choose a difficulty 4-16: '))
+grid_size = int(input('choose a difficulty 4-16sssss: '))
 square_size = 50
 scnsize = grid_size * square_size
 numbers = []

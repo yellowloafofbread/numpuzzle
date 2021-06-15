@@ -1,1 +1,1 @@
-numpuzzpack
+numberpuzzle

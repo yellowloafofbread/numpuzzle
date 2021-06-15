@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.1'
+VERSION = '0.0.0'
 DESCRIPTION = "'sliding' number puzzle game"
-LONG_DESCRIPTION = 'A package that allows to build simple streams of video, audio and camera data.'
+
 
 # Setting up
 setup(
